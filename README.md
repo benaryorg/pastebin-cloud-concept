@@ -139,3 +139,54 @@ That is about ten megabytes per day.
 equals 2500 megabytes which is 20 gigabit or 2.5 gigabytes per day.
 
 
+# Format and Encryption
+
+Some things to consider:
+
+## Limited Character Range
+
+We could possibly use [base64](https://en.wikipedia.org/wiki/Base64) which comes
+with a loss of one third of payload.
+
+## Directory Structure and Filenames
+
+### Fileheader vs. Linked List Index
+
+#### Fileheader
+
+- one post can be saved as a local file without lookup
+
+#### Index
+
+- single page acting as index
+- long file or directory names
+- changelog (restoring of previous versions)
+- saving multiple files into one file
+
+## Compression
+
+We already use base64 or something similar, why not compress our data to reduce
+payload?
+
+- gzip
+- bzip2
+	- good for text files
+- xz
+	- good for binary data
+
+<!-- TODO: add more -->
+
+## Encryption
+
+This point is very obvious, as we do not want our data to be publicly readable.
+
+- symmetric (AES)
+	- fast
+	- password can be lost
+- asymmetric (RSA)
+	- no human guessable
+	- keys need to be copied
+	- signing possible
+
+<!-- TODO: add more algorithms -->
+
