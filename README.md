@@ -184,7 +184,7 @@ This point is very obvious, as we do not want our data to be publicly readable.
 	- fast
 	- password can be lost
 - asymmetric (RSA)
-	- no human guessable
+	- no human guessable password
 	- keys need to be copied
 	- signing possible
 
