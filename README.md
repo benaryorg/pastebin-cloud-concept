@@ -89,3 +89,14 @@ There are three different types of pastes:
 | Registered | unlimited | 25        | 10             |
 | Pro        | unlimited | unlimited | unlimited      |
 
+### Size Limit
+
+Every post can be of 512 kilobytes in size.
+Pro users have a limit of up to 10 megabytes.
+
+<!-- TODO: check if they mean powers of ten or two -->
+
+### API
+
+The API is only accessible for Registered or Pro users.
+
