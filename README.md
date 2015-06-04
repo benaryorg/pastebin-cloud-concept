@@ -120,6 +120,26 @@ Pro users have a limit of up to _10 megabytes_.
 
 The API is only accessible for Registered or Pro users.
 
+### Spamfilter
+
+> Pastebin uses an automated spam protection system that will sometimes display
+> a captcha request after you have tried to create a new paste. When you get a
+> captcha request, you have 10 minutes to enter a valid response. If you don't
+> validate your paste within 10 minutes, we will automatically remove it.
+> 
+> Various things can trigger this captcha spam protection.
+> 
+> A few examples are:
+> - trying to create a certain amount of new pastes in a short period of time.
+>   (flooding)
+> - trying to create pastes with links in it.
+> - trying to create pastes with 'suspicious' keywords in it.
+> 
+> There are various levels of spam protection. Anonymous guests, free members
+> and PRO users all have different spam detection levels. Being a PRO member
+> will allow you to post _almost_ anything without the automatic spam protection
+> being activated.
+
 
 # Are those really problems?
 
@@ -147,6 +167,14 @@ That get's us about **10 megabytes per day**.
 
 _10 megabytes_ (that is the whole upload of a registered user per day) times
 _250_ equals **2500 megabytes** which is 20 gigabit or **2.5 gigabytes** per day.
+
+## Spamfilter
+
+The implementation of an automated captcha downloader which displays the picture
+to you, or a simple notification asking you to visit the website and solve it.
+
+A mechanism to spread the uploads over some time to not trigger captchas at all
+might be useful.
 
 
 # Format and Encryption
