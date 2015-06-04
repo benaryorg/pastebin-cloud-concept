@@ -110,3 +110,32 @@ Pro users have a limit of up to 10 megabytes.
 
 The API is only accessible for Registered or Pro users.
 
+
+# Are those really problems?
+
+The number of pastes is irrelevant because we will post everything as a
+encrypted public post.
+We cannot use private or at least unlisted posts because we are no Pro user.
+Well at least there might be people who are not and we want to take care of
+everybody.
+However, Guests have no API-access and Registered users are limited to public
+posts, so we choose the registered one because we encrypt our data and also want
+the higher upload limit.
+
+The API is not a problem as we are Registered now.
+
+## Size and Upload Limit
+
+Below are some calculations for the upload volume of the different users.
+
+### Registered
+
+Registered users have 512 kilobytes times 20 per day.
+That is about ten megabytes per day.
+
+### Pro
+
+10 megabytes (that is the whole upload of a registered user per day) times 250
+equals 2500 megabytes which is 20 gigabit or 2.5 gigabytes per day.
+
+
