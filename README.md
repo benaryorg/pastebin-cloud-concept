@@ -16,7 +16,7 @@ There are some TODOs as HTML comments in the text and here are some more:
 # Implementation
 
 If you really want this to be implemented, please contact me
-[binary@benary.org](mailto:binary@benary.org).
+([binary@benary.org](mailto:binary@benary.org)).
 
 If there are enough people who want this, I will build a cross-platform and
 open-source client implementing all of this.
