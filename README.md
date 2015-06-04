@@ -25,7 +25,7 @@ open-source client implementing all of this.
 
 Quoted from their FAQs:
 
-> Pastebin.com is a website where you can store text for a certain period of
+> Pastebin.com is a website where you can **store** text for a certain period of
 > time. The website is mainly used by programmers to store pieces of sources
 > code or configuration information, but anyone is more than welcome to paste
 > any type of text. The idea behind the site is to make it more convenient for
@@ -33,8 +33,7 @@ Quoted from their FAQs:
 
 Here we have the main keyword which led me to the idea, more than once, to use
 it as a cloud storage.
-
-It is the keyword **_store_**.
+I highlighted it for your convenience.
 
 ## FAQs
 
@@ -75,13 +74,13 @@ is not personal, which could be solved using encryption.
 
 # Problems
 
-So, you want to implement it?
+So, does all of this work?
 
-Okay, first we try to find out if it is possible.
+Let's find out!
 
 ## Limitations
 
-Of course they have some limitations. They are not stupid.
+Of course they have some limitations. They are **not** stupid.
 
 ### Uploads
 
@@ -112,8 +111,8 @@ There are three different types of pastes:
 
 ### Size Limit
 
-Every post can be of 512 kilobytes in size.
-Pro users have a limit of up to 10 megabytes.
+Every post can be of _512 kilobytes_ in size.
+Pro users have a limit of up to _10 megabytes_.
 
 <!-- TODO: check if they mean powers of ten or two -->
 
@@ -141,23 +140,23 @@ Below are some calculations for the upload volume of the different users.
 
 ### Registered
 
-Registered users have 512 kilobytes times 20 per day.
-That is about ten megabytes per day.
+Registered users have _512 kilobytes_ times _20 per day_.
+That get's us about _ten megabytes per day_.
 
 ### Pro
 
-10 megabytes (that is the whole upload of a registered user per day) times 250
-equals 2500 megabytes which is 20 gigabit or 2.5 gigabytes per day.
+_10 megabytes_ (that is the whole upload of a registered user per day) times
+_250_ equals _2500 megabytes_ which is 20 gigabit or **2.5 gigabytes** per day.
 
 
 # Format and Encryption
 
-Some things to consider:
+There are some things to consider:
 
 ## Limited Character Range
 
 We could possibly use [base64](https://en.wikipedia.org/wiki/Base64) which comes
-with a loss of one third of payload.
+with a loss of **one third** of payload.
 
 ## Directory Structure and Filenames
 
