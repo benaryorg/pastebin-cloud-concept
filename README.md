@@ -16,3 +16,9 @@ it as a cloud storage.
 
 It is the keyword **_store_**.
 
+## Why Pastebin?
+
+There is no particular reason for (at least not while I am writing this) using
+Pastebin. You could also use [GitHub's Gists](https://gist.github.com) or some
+similar service.
+
