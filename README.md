@@ -161,7 +161,7 @@ with a loss of one third of payload.
 - single page acting as index
 - long file or directory names
 - changelog (restoring of previous versions)
-- saving multiple files into one file
+- saving multiple files into one paste
 
 ## Compression
 
