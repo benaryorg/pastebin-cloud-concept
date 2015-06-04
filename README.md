@@ -1,6 +1,9 @@
 Using [Pastebin](http://pastebin.com) as a Cloud
 ================================================
 
+
+# Contribution
+
 First of all, if you want to contribute, please send a pull request.
 
 There are some TODOs as HTML comments in the text and here are some more:
@@ -9,6 +12,14 @@ There are some TODOs as HTML comments in the text and here are some more:
 - add content
 - buy me some cookies for my hard work
 
+
+# Implementation
+
+If you really want this to be implemented, please contact me
+[binary@benary.org](mailto:binary@benary.org).
+
+If there are enough people who want this, I will build a cross-platform and
+open-source client implementing all of this.
 
 # Pastebin
 
