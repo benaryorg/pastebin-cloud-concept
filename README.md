@@ -22,3 +22,7 @@ There is no particular reason for (at least not while I am writing this) using
 Pastebin. You could also use [GitHub's Gists](https://gist.github.com) or some
 similar service.
 
+## Has someone done that before?
+
+Honestly, I do not know.
+
