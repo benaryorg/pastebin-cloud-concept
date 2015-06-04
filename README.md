@@ -141,12 +141,12 @@ Below are some calculations for the upload volume of the different users.
 ### Registered
 
 Registered users have _512 kilobytes_ times _20 per day_.
-That get's us about _ten megabytes per day_.
+That get's us about **10 megabytes per day**.
 
 ### Pro
 
 _10 megabytes_ (that is the whole upload of a registered user per day) times
-_250_ equals _2500 megabytes_ which is 20 gigabit or **2.5 gigabytes** per day.
+_250_ equals **2500 megabytes** which is 20 gigabit or **2.5 gigabytes** per day.
 
 
 # Format and Encryption
