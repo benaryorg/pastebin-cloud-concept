@@ -9,6 +9,7 @@ First of all, if you want to contribute, please send a pull request.
 There are some TODOs as HTML comments in the text and here are some more:
 
 - add italics and bold font where appropriate
+- add links where useful
 - add content
 - buy me some cookies for my hard work
 
