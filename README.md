@@ -67,6 +67,6 @@ Of course they have some limitations. They are not stupid.
 | Membership | pastes per 24 hours |
 | :--------- | ------------------: |
 | Guests     |    10               |
-| Free       |    20               |
-| PRO        |   250               |
+| Registered |    20               |
+| Pro        |   250               |
 
