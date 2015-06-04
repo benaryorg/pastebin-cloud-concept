@@ -50,7 +50,7 @@ Quoted from their FAQs again:
 So, from what I see, it could be allowed, as long as your personal information
 is not personal, which could be solved using encryption.
 
-**Please correct me at this point if I am wrong!**
+<!-- TODO: check if it could really be done -->
 
 # Problems
 
