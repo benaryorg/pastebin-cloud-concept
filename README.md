@@ -67,10 +67,9 @@ Quoted from their FAQs again:
 > - pornographic information / data
 > - spam links (this includes promoting your own site)
 
-So, from what I see, it could be allowed, as long as your personal information
-is not personal, which could be solved using encryption.
-
-<!-- TODO: check if it could really be done -->
+I wrote them an email and they responded (surprisingly fast) that I was allowed
+to do it.
+They even wished me a happy coding.
 
 
 # Problems
