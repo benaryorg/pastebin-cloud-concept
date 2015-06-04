@@ -52,6 +52,7 @@ is not personal, which could be solved using encryption.
 
 <!-- TODO: check if it could really be done -->
 
+
 # Problems
 
 So, you want to implement it?
