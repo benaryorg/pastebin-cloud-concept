@@ -44,3 +44,21 @@ is not personal, which could be solved using encryption.
 
 **Please correct me at this point if I am wrong!**
 
+# Problems
+
+So, you want to implement it?
+
+Okay, first we try to find out if it is possible.
+
+## Limitations
+
+Of course they have some limitations. They are not stupid.
+
+### Uploads
+
+| Membership | pastes per 24 hours |
+| :--------- | ------------------: |
+| Guests     |    10               |
+| Free       |    20               |
+| PRO        |   250               |
+
