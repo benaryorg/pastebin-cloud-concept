@@ -16,6 +16,14 @@ it as a cloud storage.
 
 It is the keyword **_store_**.
 
+## FAQs
+
+> You've just quoted their FAQs.
+
+Yes I did.
+
+Here is the link: [FAQs](http://pastebin.com/faq).
+
 ## Why Pastebin?
 
 There is no particular reason for (at least not while I am writing this) using
