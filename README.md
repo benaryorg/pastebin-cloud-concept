@@ -70,3 +70,22 @@ Of course they have some limitations. They are not stupid.
 | Registered |    20               |
 | Pro        |   250               |
 
+### Type of Pastes
+
+There are three different types of pastes:
+
+- public
+	- listed on their website
+- unlisted
+	- not listed on their website, only accessible via link
+- private
+	- only visible to you
+
+#### Limits
+
+| membership | public    | unlisted  | private        |
+| :--------- | :-------: | :-------: | :------------: |
+| Guest      | unlimited | unlimited | obviously none |
+| Registered | unlimited | 25        | 10             |
+| Pro        | unlimited | unlimited | unlimited      |
+
