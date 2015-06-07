@@ -228,3 +228,15 @@ This point is very obvious, as we do not want our data to be publicly readable.
 
 <!-- TODO: add more algorithms -->
 
+A huge problem could be changing the password, if you have uploaded a lot.
+This could be solved deleting all previous pastes and reuploading them newly
+encrypted.
+
+### Per File Encryption 
+
+Theoretically aforementioned problem could be lessened by storing all
+passwords/keys encrypted in a directory and use a master password.
+So only the affected passwords/files need to be reuploaded.
+The overall guessability of passwords, based on the knowledge of the unencrypted
+contents of files, gets down to about zero.
+
